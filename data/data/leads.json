@@ -5,5 +5,12 @@
     "company": "sem contato",
     "step": "novo",
     "created": "2026-09-10"
+  },
+  {
+    "name": "josé",
+    "email": "j@p",
+    "company": "of",
+    "step": "cdr",
+    "created": "2026-09-17"
   }
 ]
